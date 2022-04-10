@@ -7,6 +7,11 @@
     margin-bottom: 2%;
 }
 
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
 .chart {
     width: 30%;
 }
@@ -45,7 +50,7 @@ p {
 
  img {
 height: autopx;
-width: 800px;
+width: 600px;
 display: inline-block;
 }
 
