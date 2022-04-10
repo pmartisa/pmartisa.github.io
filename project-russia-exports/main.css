@@ -47,4 +47,5 @@ p {
     margin-bottom: 0px; 
     margin-right: 75px;
     margin-left: 75px;
+    @media screen and (max-width:400px){body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%}
   }
