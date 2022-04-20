@@ -11,10 +11,25 @@ body{
 color:#222;
 overflow:hidden;
 overflow-y:auto}
-@media only screen and (max-width:600px){body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%} */
+/* @media only screen and (max-width:600px){body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%} */
 padding-left: 10;
-padding-right: 10;
+padding-right: 10; */
 }
+
+@media only screen and (max-width: 950px) {
+   .cf7_custom_style_1 {
+      padding-left: 10%;
+      padding-right: 10%;
+   }
+}
+
+@media only screen and (max-width: 600px) {
+   .cf7_custom_style_1 {
+      padding-left: 0;
+      padding-right: 0;
+   }
+}
+
 
 
 .content {
