@@ -1,0 +1,22 @@
+{	
+	"fonts": [
+        {
+            "aifont": "BlairMdITCTTMedium",
+            "family": "BlairMdITC TT",
+            "weight": "300",
+            "style": "" 
+        },
+        {
+            "aifont": "KohinoorDevanagari-Semibold",
+            "family": "Kohinoor Devanagari",
+            "weight": "600",
+            "style": "" 
+        },
+        {
+            "aifont": "KohinoorDevanagari-Medium",
+            "family": "Kohinoor Devanagari",
+            "weight": "600",
+            "style": "" 
+        }
+    ]
+}
