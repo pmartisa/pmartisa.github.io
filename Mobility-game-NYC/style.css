@@ -106,7 +106,7 @@ h2 {
 
 p {
     font-size: 13pt;
-    color: #8f702e;
+    color: #000;
     line-height: 1.7em;
     font-weight: lighter;
 }
@@ -227,6 +227,13 @@ body.dark {
 .dark h2 {
     color: #666;
 }
+.dark p {
+    font-size: 13pt;
+    color: #FFF;
+    line-height: 1.7em;
+    font-weight: lighter;
+}
+
 
 .dark .container {
     background: black;
